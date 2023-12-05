@@ -11,7 +11,7 @@
 - Vecel
 
 ## Funcionalidade
-Aplicativo da web usando que permita aos usuários pesquisar as condições climáticas atuais pelo nome de uma cidade.
+Aplicativo web que permite aos usuários pesquisar as condições climáticas atuais pelo nome de uma cidade.
 Utilizando API Open Weather Map para obter os dados meteorológicos.
 
 ## Vecel
