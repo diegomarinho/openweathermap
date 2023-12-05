@@ -8,7 +8,7 @@
 - cdnjs.cloudflare.com
 - countryflagsapi
 - OpenWeather
-- Vecel
+- Vercel
 
 ## Funcionalidade
 Aplicativo web que permite aos usuários pesquisar as condições climáticas atuais pelo nome de uma cidade.
